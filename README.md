@@ -10,7 +10,7 @@ In this tutorial, we show how [Featuretools](https://www.featuretools.com) can b
 ## Highlights
 
 * We automatically generate 1820 features using Deep Feature Synthesis.
-* We are able to quickly generate features, check that we are content with those features, and create the feature matrix.
+* We are able to generate features, check that we are content with those features, and create the feature matrix.
 * We develop are able to generate features in 1 hours vs 10 hours with manual feature engineering.
 
 ## Read the tutorial
