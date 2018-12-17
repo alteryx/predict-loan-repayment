@@ -21,30 +21,13 @@ Link to notebook: [Automated Loan Repayment](https://github.com/Featuretools/Aut
 
 The data can be downloaded [here](https://www.kaggle.com/c/home-credit-default-risk/data).
 
-<<<<<<< Updated upstream
-To run the notebooks, place the following data files in the `input` directory:
-`application_train.csv`, `application_test.csv`, `bureau.csv`, `bureau_balance.csv`,
-`POS_CASH_balance.csv`, `credit_card_balance.csv`, `previous_application.csv`,
-and `installments_payments.csv`. The `HomeCredit_columns_description.csv` file may
-be helpful as it contains the data decscriptions.
-
-=======
->>>>>>> Stashed changes
 ## Feature Labs
 <a href="https://www.featurelabs.com/">
     <img src="http://www.featurelabs.com/wp-content/uploads/2017/12/logo.png" alt="Featuretools" />
 </a>
-<<<<<<< Updated upstream
 
 Featuretools is an open source project created by [Feature Labs](https://www.featurelabs.com/). To see the other open source projects we're working on visit Feature Labs [Open Source](https://www.featurelabs.com/open). If building impactful data science pipelines is important to you or your business, please [get in touch](https://www.featurelabs.com/contact.html).
 
 ### Contact
 
-=======
-
-Featuretools is an open source project created by [Feature Labs](https://www.featurelabs.com/). To see the other open source projects we're working on visit Feature Labs [Open Source](https://www.featurelabs.com/open). If building impactful data science pipelines is important to you or your business, please [get in touch](https://www.featurelabs.com/contact.html).
-
-### Contact
-
->>>>>>> Stashed changes
 Any questions can be directed to help@featurelabs.com
