@@ -11,15 +11,27 @@ In this tutorial, we show how [Featuretools](https://www.featuretools.com) can b
 
 * We automatically generate 1820 features using Deep Feature Synthesis.
 * We are able to generate features, check that we are content with those features, and create the feature matrix.
-* We develop are able to generate features in 1 hours vs 10 hours with manual feature engineering.
+* We develop are able to generate features in 1 hour vs 10 hours with manual feature engineering.
 
-## Read the tutorial
+## Running the tutorial
+1. Clone the repo
 
-Link to notebook: [Automated Loan Repayment](https://github.com/Featuretools/Automated-Manual-Comparison/blob/master/Loan%20Repayment/notebooks/Automated%20Loan%20Repayment.ipynb)
+    ```
+    git clone https://github.com/Featuretools/predict-malicious-cyber-connections.git
+    ```
 
-### Data
+2. Install the requirements
 
-The data can be downloaded [here](https://www.kaggle.com/c/home-credit-default-risk/data).
+    ```
+    pip install featuretools
+    ```
+
+3. Download the data
+
+    You can download the data from [Kaggle](https://www.kaggle.com/c/home-credit-default-risk/data). After downloading, save the CSV to a directory called `input` in the root of this repository.
+
+4. Run the Tutorial notebook: <br>
+[Automated Loan Repayment](https://github.com/Featuretools/Automated-Manual-Comparison/blob/master/Loan%20Repayment/notebooks/Automated%20Loan%20Repayment.ipynb)
 
 ## Feature Labs
 <a href="https://www.featurelabs.com/">
