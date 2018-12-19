@@ -23,7 +23,7 @@ In this tutorial, we show how [Featuretools](https://www.featuretools.com) can b
 2. Install the requirements
 
     ```
-    pip install featuretools
+    pip install -r requirements.txt
     ```
 
 3. Download the data
