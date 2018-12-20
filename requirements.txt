@@ -3,6 +3,7 @@ dask>=0.18.2
 distributed>=1.22.0
 featuretools>=0.2.1
 ipython>=6.4.0
+jupyter==1.0.0
 lightgbm>=2.1.2
 matplotlib>=2.2.2
 psutil>=5.4.5
