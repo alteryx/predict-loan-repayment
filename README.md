@@ -33,6 +33,10 @@ In this tutorial, we show how [Featuretools](https://www.featuretools.com) can b
 4. Run the Tutorial notebook: <br>
 [Automated Loan Repayment](https://github.com/Featuretools/Automated-Manual-Comparison/blob/master/Loan%20Repayment/notebooks/Automated%20Loan%20Repayment.ipynb)
 
+    ```
+    jupyter notebook
+    ```
+
 ## Feature Labs
 <a href="https://www.featurelabs.com/">
     <img src="http://www.featurelabs.com/wp-content/uploads/2017/12/logo.png" alt="Featuretools" />
