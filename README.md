@@ -22,7 +22,21 @@ In this tutorial, we show how [Featuretools](https://www.featuretools.com) can b
 
 2. Install the requirements
 
+    #### Mac OS
     ```
+    brew install graphviz
+    pip install -r requirements.txt
+    ```
+
+    #### Linux
+    ```
+    sudo apt-get install graphviz
+    pip install -r requirements.txt
+    ```
+
+    #### Windows
+    ```
+    conda install python-graphviz
     pip install -r requirements.txt
     ```
 
